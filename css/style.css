@@ -144,4 +144,8 @@ img {
     .lessons .col, .steps .col, .why-us [class^="col"] {
         width: 100%;
     }
+
+    .card, .why-us img{
+        margin-bottom: 5rem;
+    }
 }
